@@ -1,0 +1,5 @@
+Original Install Date:     04.12.2017, 14:17:28
+System Boot Time:          13.05.2018, 20:09:41
+Total # of free bytes        : 25668890624
+Total # of bytes             : 52323938304
+Total # of avail free bytes  : 25668890624

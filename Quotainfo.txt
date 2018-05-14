@@ -1,0 +1,70 @@
+FileSystemControlFlags = 0x00000002
+    Quotas are tracked and enforced on this volume
+    Logging for quota events is not enabled
+    The quota values are up to date
+
+Default Quota Threshold = 0xffffffffffffffff
+Default Quota Limit     = 0xffffffffffffffff
+
+SID Name        = BUILTIN\Administrators (Alias)
+Change time     = 14 травня 2018 р.   21:54:49
+Quota Used      = 16884320256
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT SERVICE\TrustedInstaller (WellKnownGroup)
+Change time     = 14 травня 2018 р.   20:50:59
+Quota Used      = 4737583104
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT AUTHORITY\SYSTEM (WellKnownGroup)
+Change time     = 14 травня 2018 р.   21:53:33
+Quota Used      = 4760774656
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT AUTHORITY\LOCAL SERVICE (WellKnownGroup)
+Change time     = 14 травня 2018 р.   21:54:15
+Quota Used      = 46184448
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  ?мена обл?кових запис?в не з?ставлен? з кодами безпеки.
+
+Change time     = 14 травня 2018 р.   20:50:59
+Quota Used      = 21282816
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT SERVICE\HomeGroupProvider (WellKnownGroup)
+Change time     = 14 травня 2018 р.   20:50:59
+Quota Used      = 1024
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT AUTHORITY\NETWORK SERVICE (WellKnownGroup)
+Change time     = 14 травня 2018 р.   21:52:49
+Quota Used      = 25239552
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  ?мена обл?кових запис?в не з?ставлен? з кодами безпеки.
+
+Change time     = 14 травня 2018 р.   20:50:59
+Quota Used      = 5253120
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = 11-ПК\uylia_fedchenko (User)
+Change time     = 14 травня 2018 р.   20:58:53
+Quota Used      = 23259136
+Quota Threshold = 5000
+Quota Limit     = 10000
+
+SID Name        = 11-ПК\Administrator (User)
+Change time     = 14 травня 2018 р.   20:51:00
+Quota Used      = 284672
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
